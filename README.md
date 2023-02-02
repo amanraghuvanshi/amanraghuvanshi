@@ -8,7 +8,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/amanraghuvanshi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/raghuwanshia4"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/i_aman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.buymeacoffee.com/iaman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
