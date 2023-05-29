@@ -1,84 +1,45 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Aman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</div>
+<h1 align="center">Hi 👋, I'm Aman</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/amanraghuvanshi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/raghuwanshia4"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.buymeacoffee.com/iaman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraghuvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="amanraghuvanshi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanraghuvanshi" alt="amanraghuvanshi" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/raghuwanshia4" target="blank"><img src="https://img.shields.io/twitter/follow/raghuwanshia4?logo=twitter&style=for-the-badge" alt="raghuwanshia4" /></a> </p>
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aman Raghuvanshi | 💻 Go Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+- 🔭 I’m currently working on [real-time videoconferencing](https://github.com/amanraghuvanshi/Streaming-and-Video-Conference)
 
+- 🌱 I’m currently learning **Spring, Hibernate**
 
+- 👯 I’m looking to collaborate on [webRTC Project](https://github.com/amanraghuvanshi/Streaming-and-Video-Conference)
 
-<p align="center">
-   <a href="https://twitter.com/raghuwanshia4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raghuwanshia4?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@raghuwanshia4"></a>
- 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
- 
-<br />
-<p align="center">
-  <h3> I'm 20 years old Self-taught Go and Backend developer from India.</h3>
+- 👨‍💻 All of my projects are available at [https://amanraghuvanshi.github.io/portfolio.github.io/](https://amanraghuvanshi.github.io/portfolio.github.io/)
+
+- 📝 I regularly write articles on [https://medium.com/@iamanraghuvanshi](https://medium.com/@iamanraghuvanshi)
+
+- 💬 Ask me about **Go and Microservices**
+
+- 📫 How to reach me **iamanraghuvanshi@gmail.com**
+
+- ⚡ Fun fact **I think I am funny!!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/amanraghuvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amanraghuvanshi" height="30" width="40" /></a>
+<a href="https://twitter.com/raghuwanshia4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghuwanshia4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amanraghuvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanraghuvanshi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/i_aman_india" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_aman_india" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/raghuwanshia4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raghuwanshia4" height="30" width="40" /></a>
 </p>
 
- - 🥀 Learning gRPC and Kubernetes
-   
- - 🔭 CSE Undergraduate from IN
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
- - 🛸 I write technical stuffs on Medium
- 
- - Programming and Databases
- 
- - All About living life at its best.
- 
- <p align="center">
-  <h4> Go Developer | Web Developer | Programming </h4>
-   </p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/iaman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iaman" /></a></p><br><br>
 
-<!--  -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanraghuvanshi&show_icons=true&locale=en&layout=compact" alt="amanraghuvanshi" /></p>
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=amanraghuvanshi&&show_icons=true&theme=radical"/>
-  </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanraghuvanshi&show_icons=true&locale=en" alt="amanraghuvanshi" /></p>
 
-</p>
-
-<br />
-
-### - Languages and Tools...
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
-### - Blogs 🌱
-<p align="center">
-  <a href="https://medium.com/@iamanraghuvanshi">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
-
-<p align="center">Made with ❤️ in India</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanraghuvanshi&" alt="amanraghuvanshi" /></p>
